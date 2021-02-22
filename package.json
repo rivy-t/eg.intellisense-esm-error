@@ -1,0 +1,13 @@
+{
+  "name": "t-os-paths",
+  "version": "0.0.1",
+  "main": "src/cli.js",
+  "author": "Roy Ivy III <rivy.dev@gmail.com> (https://rivy.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "os-paths": "^6.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31"
+  }
+}
